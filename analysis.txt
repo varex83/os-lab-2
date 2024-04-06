@@ -1,0 +1,12 @@
+[1.42%]: From 0 to 0 there are 2 files
+[2.84%]: From 0 to 129 there are 4 files
+[2.13%]: From 129 to 214 there are 3 files
+[2.84%]: From 214 to 408 there are 4 files
+[2.13%]: From 408 to 432 there are 3 files
+[9.22%]: From 432 to 2239 there are 13 files
+[2.13%]: From 2239 to 2314 there are 3 files
+[2.13%]: From 2314 to 3024 there are 3 files
+[2.13%]: From 3024 to 3220 there are 3 files
+[79.43%]: From 3220 to 35349293 there are 112 files
+Total files: 141
+Total size: 136600442
